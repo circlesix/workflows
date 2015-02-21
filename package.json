@@ -11,5 +11,9 @@
     "url": "?.git"
   },
   "author": "circle six",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-util": "^3.0.3"
+  }
 }
